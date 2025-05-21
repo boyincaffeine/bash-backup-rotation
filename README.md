@@ -64,11 +64,6 @@ backups_25-05-21-23-22-13.tar.gz
 backups_25-05-21-23-23-05.tar.gz
 ```
 
-## 📃 License
-
-This project is open-source under the [MIT License](LICENSE).
-
-```
 
 ---
 
